@@ -18,6 +18,9 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I'm an Applied Natural Language Processing Research Assistant at Boston Children's Hospital and Harvard Medical School. I primarily work on Domain Adaptation and Information Extraction using Large Language Models (LLMs) and more-traditional Transformers-based methods for Clinical use cases. In the past, I've worked on Language Generation and Conversational AI.
+
+Prior to this, I was awarded my Masters in Computer Science from the University of Massachusetts - Amherst where I focused on Machine Learning and NLP. I performed NLP Research at Prof. Andrew McCallum's IESL Lab (now under UMass NLP) where I worked on multi-lingual parsing and continual learning. I worked as a Systems Analyst at Visa after completing my Bachelor's in Information Systems and Advanced Analytics from Singapore Management University. Prior to pivoting to ML and NLP, I used to work on data-driven Program Management and Business Process Improvement for technology companies.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
